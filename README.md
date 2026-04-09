@@ -1,4 +1,5 @@
 **Flappy Bird Clone**
+
 A nostalgic, browser-based tribute to the classic mobile game that defined an era.
 
 🎮 About the Project
